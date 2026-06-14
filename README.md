@@ -350,11 +350,11 @@ A Sprint 02 implementa o núcleo funcional da plataforma EV ChargeOps com base n
 |---|---|
 | Back-end | Python (FastAPI) |
 | Banco de dados | PostgreSQL |
-| IA | scikit-learn (Isolation Forest), Prophet ou XGBoost (previsão) |
+| IA | scikit-learn (Isolation Forest), Prophet ou XGBoost  |
 | Integração carregador | API SEMS GoodWe (HTTPS + JSON) |
-| Painel do gestor | React ou HTML/CSS simples |
+| Painel do gestor | React ou HTML/CSS  |
 | App do usuário | React Native ou PWA |
-| Deploy | Railway / Render (gratuito para MVP) |
+| Deploy | Railway / Render  |
 
 ---
 
